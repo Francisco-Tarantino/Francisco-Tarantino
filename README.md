@@ -1,7 +1,7 @@
 # 👋🏽 Hi there, I am Francisco
 
 I am in a learning process where I find myself walking a path towards my future, orienting myself towards the area of technology, seeking to update and improve my knowledge in that area, especially in the backend area using java-Springboot, mysql and docker.
-i am also experience in integrating web applications using tools such as GitHub, Trello, GitLab and Mural, also i enjoy working in teams using the scrum methodology.I obtained the certified tech developer diploma in the digital house course.
+i am also experience in integrating web applications using tools such as GitHub, Trello, GitLab and Mural, also i enjoy working in teams using the scrum methodology. I obtained the certified tech developer diploma in the digital house course.
 
 🔭 I’m currently working on my linkedin an gitHub profile
 
